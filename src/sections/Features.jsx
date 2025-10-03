@@ -11,7 +11,7 @@ export const Features = () => {
 
   return (
     <section className="w-full bg-PrestigeGrey">
-      <div className="bg-PrestigeBrown text-PrestigeGrey w-full transform -translate-y-1/2">
+      <div className="bg-[#75064e] text-PrestigeGrey w-full transform -translate-y-1/2">
         <div className="flex flex-wrap justify-between items-center text-center mx-auto max-w-8xl py-1">
 
           {featuresData.map((feature, index) => (

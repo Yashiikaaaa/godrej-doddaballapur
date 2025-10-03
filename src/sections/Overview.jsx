@@ -17,7 +17,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           </h1>
           <p className="max-w-2xl md:text-base text-sm text-black font-body font-light">
           <span className="font-body font-bold text-xs md:text-lg ">
-        Godrej Plots Doddaballapur offers premium villa plots in North Bangalore, ranging from approximately 1200 to 4000 sq. ft., with a total of around 500 plots across 50 acres.  </span>
+        With a total of around 500 plots across 50 acres, Godrej Plots Doddaballapur offers premium villa plots in North Bangalore, ranging from approximately 1200 to 4000 sq. ft.  </span>
           <br />
           
             <span>

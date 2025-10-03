@@ -57,7 +57,7 @@ export const Home = ({ contactmodal, setContactModal }) => {
             <div className="w-full max-w-10xl flex flex-col justify-center items-center lg:items-start text-center lg:text-left gap-9">
               <div className="flex gap-4 flex-col w-full">
                 {/* Main Title */}
-                <h1 className="font-subheading text-3xl md:text-6xl font-semibold uppercase">
+                <h1 className="font-body text-bold text-3xl md:text-5xl font-semibold uppercase">
                  Godrej Doddaballapur
                 </h1>
 
