@@ -106,7 +106,7 @@ export const LEAD_SOURCES = {
 export const PROPERTY_TYPES = {
   sqft1200: "1200sqft",
   sqft1500: "1500sqft",
-  sqft2000: "2000sqft"
-  sqft2400:"2400sqft"
-  sqft4000:"4000sqft"
+  sqft2000: "2000sqft",
+  sqft2400: "2400sqft",
+  sqft4000: "4000sqft"
 };
